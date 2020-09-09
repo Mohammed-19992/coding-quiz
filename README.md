@@ -4,7 +4,9 @@ When all of the questions are answered or the timer reaches 0, the quiz is over.
 At the end, the user can save their score to look at it later.
 The user has the option to delete their previously saved scores from the scoreboard.
 
-# Website Deployment Link
 
+# The URL of the functional, deployed application.
+https://mohammed-19992.github.io/coding-quiz/
 
-# Demo 
+# The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+https://github.com/Mohammed-19992/coding-quiz
