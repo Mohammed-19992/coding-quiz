@@ -1,0 +1,14 @@
+.body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100vw;
+    height: 100vh;
+
+  }
+
+  #bar {
+    background-color: whitesmoke;
+  }
+
+  #color {
+    background-color: beige;
+  }
